@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    color: white;
+    background-color: midnightblue;
+    padding: 30px;
+}
+
+.instructions {
+    background-color: rgb(225, 225, 225);
+    margin: 3% 10% 0% 10%;
+    padding: 5%;
+}
+
+#message {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 20px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 20px;
+}
